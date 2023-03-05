@@ -4,6 +4,6 @@
 - JavaScrip
 - Angular
 
-Can you view [my project](https://kodtolika.github.io/cars-app/) 
+Can you view [my project](https://kodtolika.github.io/cars-hw/) 
 
 Added luxury section
