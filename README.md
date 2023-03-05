@@ -1,4 +1,4 @@
-# Portfolio Frontend Develop
+# Portfolio Frontend Developer
 - Html5
 - Css3
 - JavaScrip
